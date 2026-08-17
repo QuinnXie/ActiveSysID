@@ -1,4 +1,4 @@
-<img src="docs/assets/activesysid-logo.svg" alt="ActiveSysID" width="40%"/>
+<img src="https://raw.githubusercontent.com/QuinnXie/ActiveSysID/main/docs/assets/activesysid-logo.svg" alt="ActiveSysID" width="40%"/>
 
 # ActiveSysID - Active Learning for System Identification
 
@@ -312,5 +312,5 @@ If you use this package in your research, please cite:
 This work was funded by the European Union (ERC Advanced Research Grant COMPACT, No. 101141351). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.
 
 <p align="center">
-<img src="docs/assets/erc-logo.png" alt="ERC" width="400"/>
+<img src="https://raw.githubusercontent.com/QuinnXie/ActiveSysID/main/docs/assets/erc-logo.png" alt="ERC" width="400"/>
 </p>
